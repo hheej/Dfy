@@ -1,0 +1,11 @@
+[project]
+name = "hirise-bot"
+version = "2.0.0"
+description = "HiRise Bot - Full Featured"
+authors = ["Shahab_o"]
+requires-python = ">=3.11"
+dependencies = [
+    "highrise-bot-sdk",
+    "flask",
+    "requests",
+]

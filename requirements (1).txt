@@ -1,0 +1,4 @@
+setuptools==75.6.0
+highrise-bot-sdk
+requests
+flask
